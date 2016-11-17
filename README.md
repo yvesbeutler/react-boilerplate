@@ -7,11 +7,24 @@
  
 Simple boilerplate to get started with your react application.
 
+Usage
+---
+Start the development server with this command:
+```
+npm run start
+```
+
 Setup
 ---
  
 ```
 npm install
+```
+
+Compile
+---
+```
+npm run build
 ```
 
 Project Structure

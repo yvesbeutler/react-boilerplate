@@ -1,3 +1,4 @@
 .idea/
 react-boilerplate.iml
 node_modules
+dist/bundle.js
