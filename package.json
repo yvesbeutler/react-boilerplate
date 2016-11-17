@@ -1,0 +1,24 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate to get started with your react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesbeutler/react-boilerplate.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "React",
+    "Redux"
+  ],
+  "author": "yvesbeutler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yvesbeutler/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/yvesbeutler/react-boilerplate#readme"
+}
